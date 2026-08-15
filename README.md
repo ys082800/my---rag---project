@@ -77,13 +77,13 @@ Streamlit Community Cloud를 이용하여 개발한 AI 문서 Q&A 에이전트�
 
 Streamlit 웹 애플리케이션에서 PDF 문서를 업로드한 후 문서 분석을 수행합니다.
 
-![PDF 업로드 화면 보기](./demo_upload.png)
+[PDF 업로드 화면 보기](./demo_upload.png)
 
 ### 문서 기반 질의응답
 
 업로드한 문서를 기반으로 질문을 입력하면 관련 문서 내용을 검색하고 GPT-4o를 통해 답변을 생성합니다.
 
-![질의응답 결과 화면 보기](./demo_qa.png)
+[질의응답 결과 화면 보기](./demo_qa.png)
 
 
 ## 6. 시스템 아키텍처
