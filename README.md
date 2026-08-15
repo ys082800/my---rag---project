@@ -90,7 +90,7 @@ Streamlit 웹 애플리케이션에서 PDF 문서를 업로드한 후 문서 분
 
 본 프로젝트의 PDF 기반 질의응답 시스템은 다음과 같은 구조로 구성됩니다.
 
-[시스템 아키텍처 보기](./system_architecture final.png)
+[시스템 아키텍처 보기](./system_architecture.png)
 
 ### 처리 흐름
 
