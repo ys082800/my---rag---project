@@ -16,12 +16,12 @@ OpenAI Embedding을 활용하여 문서 내용을 벡터화한 뒤 FAISS에 저�
 
 ## 2. 팀원 및 역할 분담
 
-| 학과 | 학번 | 이름 | 역할 |
+| 학과 | 이름 | 역할 |
 
-| 기계공학과 | 20231394 | 김영상 | AI Software Architect |
-| - | - | 최락현 | AI Engineer |
-| 창의융합학과 | - | 오세윤 | Product Owner |
-| 컴퓨터공학과 | - | 지유성 | Cloud Engineer |
+| 기계공학과 | 김영상 | AI Software Architect |
+|          | 최락현 | AI Engineer |
+| 창의융합학과 | 오세윤 | Product Owner |
+| 컴퓨터공학과 | 지유성 | Cloud Engineer |
 
 
 ## 3. 기술 스택
